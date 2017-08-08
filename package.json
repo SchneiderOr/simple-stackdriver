@@ -1,6 +1,6 @@
 {
   "name": "simple-stackdriver",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple module to send logs to google cloud stack driver",
   "main": "index.js",
   "scripts": {
