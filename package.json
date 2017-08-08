@@ -1,0 +1,20 @@
+{
+  "name": "simple-stackdriver",
+  "version": "0.1.0",
+  "description": "A simple module to send logs to google cloud stack driver",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel --presets es2015 lib/index.js -o dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Or Schneider",
+  "license": "ISC",
+  "dependencies": {
+    "stacktrace-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
