@@ -1,6 +1,6 @@
 {
   "name": "simple-stackdriver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple module to send logs to google cloud stack driver",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mathiasbynens/regenerate.git"
+    "url": "https://github.com/SchneiderOr/simple-stackdriver.git"
   },
   "dependencies": {
     "stacktrace-js": "^2.0.0"
